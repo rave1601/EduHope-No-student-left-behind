@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.streamlit/secrets.toml
+
+# Local student accounts, records, and support-plan data
+eduhope.db
+eduhope.db-wal
+eduhope.db-shm
+
+# Raw academic data: keep out of the remote repository
+dataset.csv

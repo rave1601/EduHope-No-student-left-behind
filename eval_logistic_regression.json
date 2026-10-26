@@ -1,0 +1,62 @@
+{
+  "model": "Logistic Regression",
+  "accuracy": 0.7463833634719711,
+  "macro_precision": 0.7109267859395594,
+  "macro_recall": 0.7146155520974441,
+  "macro_f1": 0.7060544417848194,
+  "confusion_matrix": [
+    [
+      1014,
+      291,
+      116
+    ],
+    [
+      122,
+      489,
+      183
+    ],
+    [
+      77,
+      333,
+      1799
+    ]
+  ],
+  "classes": [
+    "Dropout",
+    "Enrolled",
+    "Graduate"
+  ],
+  "classification_report": {
+    "0": {
+      "precision": 0.8359439406430338,
+      "recall": 0.7135819845179451,
+      "f1-score": 0.7699316628701595,
+      "support": 1421.0
+    },
+    "1": {
+      "precision": 0.4393530997304582,
+      "recall": 0.6158690176322418,
+      "f1-score": 0.5128474042999476,
+      "support": 794.0
+    },
+    "2": {
+      "precision": 0.8574833174451859,
+      "recall": 0.8143956541421458,
+      "f1-score": 0.835384258184351,
+      "support": 2209.0
+    },
+    "accuracy": 0.7463833634719711,
+    "macro avg": {
+      "precision": 0.7109267859395594,
+      "recall": 0.7146155520974441,
+      "f1-score": 0.7060544417848194,
+      "support": 4424.0
+    },
+    "weighted avg": {
+      "precision": 0.7755206485253504,
+      "recall": 0.7463833634719711,
+      "f1-score": 0.7564732274597392,
+      "support": 4424.0
+    }
+  }
+}

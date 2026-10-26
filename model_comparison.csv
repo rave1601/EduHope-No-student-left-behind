@@ -1,0 +1,8 @@
+Model,Accuracy,Acc. Std,Macro Precision,Macro Recall,Macro F1
+XGBoost,77.83,1.06,0.7278,0.7001,0.7091
+Gradient Boosting,77.69,0.99,0.7279,0.6994,0.7086
+Extra Trees,77.62,0.98,0.7247,0.6889,0.6986
+Random Forest,77.17,1.27,0.7201,0.6813,0.6907
+Logistic Regression,74.57,1.56,0.7101,0.7129,0.7046
+K-Nearest Neighbours,74.23,0.97,0.6869,0.6352,0.6441
+Decision Tree,69.05,1.42,0.636,0.6376,0.6356
