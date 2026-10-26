@@ -1,4 +1,4 @@
-EduHope — setup for your friend
+EduHope — No student left behind
 ================================
 
 This share package contains the EduHope Streamlit app, its pretrained models,
